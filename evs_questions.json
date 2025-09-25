@@ -1,0 +1,62 @@
+[
+  {
+    "question": "Which of the following is a renewable resource?",
+    "options": ["Coal", "Solar Energy", "Natural Gas", "Petroleum"],
+    "answer": [1],
+    "explanation": "Solar energy is renewable because it is naturally replenished and sustainable."
+  },
+  {
+    "question": "Which gas is primarily responsible for global warming?",
+    "options": ["Carbon Dioxide", "Nitrogen", "Oxygen", "Hydrogen"],
+    "answer": [0],
+    "explanation": "Carbon dioxide traps heat in the atmosphere and contributes to global warming."
+  },
+  {
+    "question": "What is the main cause of deforestation?",
+    "options": ["Tree planting", "Urbanization", "Wildlife conservation", "Rainfall"],
+    "answer": [1],
+    "explanation": "Urbanization leads to clearing forests for buildings and infrastructure."
+  },
+  {
+    "question": "Which of the following helps in water conservation?",
+    "options": ["Plastic usage", "Deforestation", "Rainwater harvesting", "Air pollution"],
+    "answer": [2],
+    "explanation": "Rainwater harvesting collects and stores rainwater for future use."
+  },
+  {
+    "question": "Which of the following is biodegradable?",
+    "options": ["Paper", "Glass", "Plastic", "Metal"],
+    "answer": [0],
+    "explanation": "Paper decomposes naturally, unlike plastic, glass, and metal."
+  },
+  {
+    "question": "Which of the following is a non-renewable resource?",
+    "options": ["Wind", "Natural Gas", "Sunlight", "Hydropower"],
+    "answer": [1],
+    "explanation": "Natural gas is extracted from the Earth and cannot be replenished quickly."
+  },
+  {
+    "question": "Plastic is biodegradable.",
+    "options": ["True", "Not Sure", "Depends on the type", "False"],
+    "answer": [3],
+    "explanation": "Plastic is generally non-biodegradable and remains in the environment for hundreds of years."
+  },
+  {
+    "question": "Rainwater harvesting helps conserve water.",
+    "options": ["False", "True", "Only in rainy areas", "Only in cities"],
+    "answer": [1],
+    "explanation": "Rainwater harvesting is effective in all regions for conserving water."
+  },
+  {
+    "question": "Deforestation increases biodiversity.",
+    "options": ["True", "False", "Only in tropical areas", "Sometimes"],
+    "answer": [1],
+    "explanation": "Deforestation reduces biodiversity by destroying habitats."
+  },
+  {
+    "question": "Which of the following is an effect of air pollution?",
+    "options": ["Increased forest cover", "Improved crop yield", "Respiratory problems", "Cleaner water"],
+    "answer": [2],
+    "explanation": "Air pollution causes respiratory issues like asthma and bronchitis."
+  }
+]
